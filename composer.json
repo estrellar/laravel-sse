@@ -6,13 +6,13 @@
   "repositories":[
         {
             "type": "vcs",
-            "url": "https://github.com/estrellar/libSSE-php"
+            "url": "https://github.com/estrellar/libsse-php"
         }
   ],
   "require": {
     "php": ">=5.5.9",
     "illuminate/support": "^8.0",
-    "estrellar/libsse-php": "~2.1.3"
+    "estrellar/libsse-php": "^2.0"
   },
   "autoload": {
     "psr-4": {
