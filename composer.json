@@ -3,10 +3,16 @@
   "version": "1.0.1",
   "type": "library",
   "license": "MIT",
+  "repositories":[
+        {
+            "type": "vcs",
+            "url": "https://github.com/estrellar/libSSE-php"
+        }
+   ]
   "require": {
     "php": ">=5.5.9",
     "illuminate/support": "^8.0",
-    "estrellar/sse": "~2.1"
+    "estrellar/sse": "master"
   },
   "autoload": {
     "psr-4": {
