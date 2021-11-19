@@ -12,7 +12,7 @@
   "require": {
     "php": ">=5.5.9",
     "illuminate/support": "^8.0",
-    "estrellar/libSSE-php": "master"
+    "estrellar/libsse-php": "~2.1.3"
   },
   "autoload": {
     "psr-4": {
